@@ -1,4 +1,6 @@
 <html>
+<link rel="stylesheet" href="css/cis.css">
+<center>	
 
 <form class="client-form" method = "GET" action="addclient.php">
 <br>
@@ -69,5 +71,6 @@
 </div>
 
 </form>
+<center>	
 
 </html>
